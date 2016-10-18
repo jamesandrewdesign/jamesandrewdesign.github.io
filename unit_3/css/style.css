@@ -1,6 +1,13 @@
 body {
-	background-color: 255, 190, 127;
+	color: ;
 }
-<h1>
-<p>
-<ul>
+
+h1 {
+	color:;
+}
+
+p {
+	font-family: Arial, sans-serif;
+	font-size: 16px;
+	font-color: red;
+}
