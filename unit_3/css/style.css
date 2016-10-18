@@ -10,12 +10,18 @@ h1 {
 
 }
 
-h2{
+h2 {
 	font-family: Arial, sans-serif;
 	font-size: medium;
 	color: black;
 	line-height: 8pt
 
+}
+
+hr {
+	width:70%
+	color: black;
+	
 }
 
 p {
