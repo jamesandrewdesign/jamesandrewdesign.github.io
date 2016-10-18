@@ -10,6 +10,14 @@ h1 {
 
 }
 
+h2{
+	font-family: Arial, sans-serif;
+	font-size: 16px;
+	color: black;
+	line-height: 8pt
+
+}
+
 p {
 	font-family: Arial, sans-serif;
 	font-size: 16px;
