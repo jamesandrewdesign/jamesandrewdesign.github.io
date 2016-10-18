@@ -2,10 +2,12 @@ body {
 	text-align: center;
 }
 
-body {
-	background: #E0E0E0; 
-
-}
+div {
+background color: #E0E0E0;
+background-position: left bottom;
+background-size: 100% 70%;
+background-repeat: no-repeat;
+} 
 
 h1 {
 	font-family: Arial, sans-serif;
