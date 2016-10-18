@@ -2,13 +2,8 @@ body {
 	text-align: center;
 }
 
-<body style='background-color: red; margin: 0px; height: 100%;'>
-<div style='position: fixed; top: 0; left: 0; width: 50%; height: 400%; background-color: yellow; z-index: 1;'></div>
-<div style='position: absolute; top: 0; left: 0; z-index: 2; width: 100%;'>
-
-</div>
-</body>
-</html> 
+body {
+	background: #E0E0E0; 
 
 }
 
