@@ -5,11 +5,11 @@ body {
 h1 {
 	font-family: Arial, sans-serif;
 	font-size: 18px
-	color:47, 79, 79;
+	font-color:47, 79, 79;
 }
 
 p {
 	font-family: Arial, sans-serif;
 	font-size: 16px;
-	color:0,0,225;
+	font-color:47, 79, 79;
 }
