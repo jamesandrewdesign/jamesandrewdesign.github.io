@@ -25,12 +25,12 @@ p {
 	line-height: 6pt
 }
 
-li {
+dd {
 	font-family: Arial, sans-serif;
 	font-size: 0.9em;
 	color: gray;
 	line-height: 16pt
-	
+
 } 
 
 a {
