@@ -9,6 +9,8 @@ body {
 }
 
 h1 {
+	<script src="https://use.typekit.net/pda6zvi.js"></script>
+	<script>try{Typekit.load({ async: true });}catch(e){}</script>
 	font-size: 16px;
 	color: black;
 
