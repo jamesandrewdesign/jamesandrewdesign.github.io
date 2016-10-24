@@ -7,7 +7,6 @@ body {
 		padding-top: 65px;
 		padding-left: 750px;
 		margin: auto;
-		image-rendering: (../images/hero-logo-typeface-only.png);
 
 	}
 
@@ -62,7 +61,7 @@ dd {
 } 
 
 a {
-	font-family: Arial, sans-serif;
+	font-family: Arial, sans-serif
 	font-size: large;
 	font-weight: 700;
 	color: white;
