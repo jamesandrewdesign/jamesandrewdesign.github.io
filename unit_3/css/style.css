@@ -1,6 +1,11 @@
 body {
-	background-image:url(../images/home_page_hero.jpg) no-repeat center center fixed;
-
+	background-image:url(../images/home_page_hero.jpg)  no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	background-color: #010402;
+	color: #fff;
 	font-family: Arial, sans-serif;
 	font-size: 16px;
 	line-height: 1.2;
