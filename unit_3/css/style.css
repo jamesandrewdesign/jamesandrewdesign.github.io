@@ -1,6 +1,8 @@
 body {
 		background: url(../images/home_page_hero.jpg);
 		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: 10% 50%
 	
 	{
 		font-family: Arial, sans-serif;
