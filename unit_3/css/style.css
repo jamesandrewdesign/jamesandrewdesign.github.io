@@ -82,4 +82,12 @@ a {
 	letter-spacing:0.3em;			
 	margin:20px;
 }
+
+}
+	
+.button:hover {
+    background-color: #bdbcb1;
+	opacity: 0.5;
+    color: #515152;
+}
 	
