@@ -1,37 +1,24 @@
+* { margin:0; padding:0; box-sizing:border-box; }
+
 body {
 		background: url(../images/home_page_hero.jpg);
 		background-size: 100%;
 		background-repeat: no-repeat;
-		margin: auto;
-
+		padding-top: 65px;
+		padding-left: 750px;
 	}
-
-	html {
-    height: 100%
-}
-
-	
-{
-	font-family: 'Ubuntu', sans-serif;
-	font-size: 20px;
-	line-height: 1.2;
-	text-align: right;
-}
 
 h1 {
 	font-size: 16px;
-	color: black;
 }
 
 h2 {
-	font-family: 'Ubuntu', sans-serif;
 	font-size: 1.5em;
-	color: white;
+
 }
 
 hr {
 	width: 35%;
-	color: black;
 	margin: 1em auto;
 }
 
@@ -40,14 +27,7 @@ p {
 	
 }
 
-dd {
-	font-size: 0.9em;
-	line-height: 16pt
-
-} 
-
 a {
-	font-family: 'Ubuntu', sans-serif
 	font-size: large;
 	font-weight: 700;
 	color: white;
@@ -63,8 +43,7 @@ a {
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    font-size: 0.9em;
-	font-family: 'Ubuntu', sans-serif; 
+    font-size: 0.9em; 
 	letter-spacing:0.3em;			
 	margin:20px;
 }
