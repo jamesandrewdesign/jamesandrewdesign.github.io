@@ -1,7 +1,8 @@
 { margin:0; padding:0; box-sizing:border-box; }
 
 body {
-		background: url(../images/home_page_hero.jpg);
+		background: url(../images/home-page-hero.jpg);
+		background-size: 100%;
 		background-repeat: no-repeat;
 		padding-top: 65px;
 		padding-left: 750px;
