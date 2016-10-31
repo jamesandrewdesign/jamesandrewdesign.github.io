@@ -4,8 +4,11 @@ body {
 		background: url(../images/home-page-hero.jpg);
 		background-size: 100%;
 		background-repeat: no-repeat;
+		height: 100%;
+		width: 100%;
 		padding-top: 65px;
 		padding-left: 750px;
+		margin: auto;
 	}
 
 h1 {
