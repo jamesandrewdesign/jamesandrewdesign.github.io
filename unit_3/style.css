@@ -2,7 +2,6 @@
 
 body {
 		background: url(../images/home_page_hero.jpg);
-		background-size: 100%;
 		background-repeat: no-repeat;
 		padding-top: 65px;
 		padding-left: 750px;
@@ -28,6 +27,7 @@ p {
 }
 
 a {
+	font-family: "Ubuntu", sans-serif;
 	font-size: large;
 	font-weight: 700;
 	color: white;
@@ -37,20 +37,16 @@ a {
 .button {
     background-color: #3f8adb;
     border: none;
-    color: white;
-    padding: 14px;
-	width: 230px;
-    text-align: center;
     text-decoration: none;
     display: inline-block;
-    font-size: 0.9em; 
-	letter-spacing:0.3em;			
-	margin:20px;
+    font-family: "Ubuntu", sans-serif;
+    letter-spacing: 0.3em;
+    margin: 20px;
 }
 	
 .button:hover {
     background-color: #3f8adb;
 	opacity: 0.5;
-    color: #b4caed;
+
 }
 	
