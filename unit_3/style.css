@@ -42,9 +42,9 @@ ul {
 .button {
     background-color: #3f8adb;
     border: none;
-    padding:100px;
+    padding:14px;
     width: 230px;
-    text-align: center;
+    text-align: right;
     text-decoration: white;
     font-size: 16px;
     display: inline-block;
