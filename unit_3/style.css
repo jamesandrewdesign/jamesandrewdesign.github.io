@@ -1,7 +1,7 @@
 * { margin:0; padding:0; box-sizing:border-box; }
 
 body {
-		background-image: url("../images/home-page-hero.jpg");
+		background-image: url(../images/home-page-hero.jpg);
 		background background-size: cover;
     	background-color: #abd7f4;
 		background-size: 100%;
