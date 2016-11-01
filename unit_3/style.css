@@ -4,14 +4,12 @@ body {
 		background: url(../unit_3/images/home-page-hero.jpg);
 		background-size: cover;
 		background-repeat: no-repeat;
-		padding-top: 35px;
-		padding-left: 550px;
+		padding-top: 65px;
+		padding-left: 750px;
 	}
 
-h1 { 	font-family: "Ubuntu", sans-serif;
-	 	font-size: 26px;
-		margin: 20px;
-    	margin-right: 100px;
+h1 { font-family: "Ubuntu", sans-serif;
+	 font-size: 26px;
 }
  
 h2 { font-family: "Ubuntu", sans-serif;
@@ -22,9 +20,6 @@ h2 { font-family: "Ubuntu", sans-serif;
 p { font-family: "Ubuntu", sans-serif;
 	font-size: 18px;
 	line-height: 28px;
-    margin: 20px;
-   	float: right;
-    margin-right: 100px;
 }
 
 a {
@@ -52,7 +47,7 @@ ul {
     text-align: center;
     text-decoration: white;
     font-size: 16px;
-    color: white;
+    color: white
     display: inline-block;
     font-family: "Ubuntu", sans-serif;
     letter-spacing: 0.3em;
