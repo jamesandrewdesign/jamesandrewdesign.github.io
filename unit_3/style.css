@@ -4,16 +4,22 @@ body {
 		background: url(../unit_3/images/home-page-hero.jpg);
 		background-size: cover;
 		background-repeat: no-repeat;
+		padding-top: 65px;
+		padding-left: 750px;
 	}
 
 h1 { font-family: "Ubuntu", sans-serif;
 	 font-size: 26px;
 	 margin-left: 565px;
+	 padding-top: 65px;
+	padding-left: 750px;
 }
  
 h2 { font-family: "Ubuntu", sans-serif;
 	 font-size: 1.5em;
 	 margin-left: 565px;
+	 padding-top: 65px;
+	padding-left: 750px;
 
 }
 
