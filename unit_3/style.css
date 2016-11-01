@@ -21,7 +21,6 @@ h2 {font-family: "Ubuntu", sans-serif;
 p { font-family: "Ubuntu", sans-serif;
 	font-size: 18px;
 	line-height: 28px;
-	padding: 20em;
 }
 
 a {
@@ -31,6 +30,14 @@ a {
 	color: white;
 	line-height: 6pt;
 }
+
+ul {
+	width: 40%;
+	margin: 0 auto;
+	text-align: left;
+	text-transform: uppercase;
+	line-height: 32px;
+	font-family: "Ubuntu", serif;
 
 .button {
     background-color: #3f8adb;
