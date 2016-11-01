@@ -3,12 +3,10 @@
 body {
 		background: url("../images/home-page-hero.jpg");
 		background background-size: cover;
-		background-position: center;
     	background-color: #abd7f4;
 		background-size: 100%;
 		background-repeat: no-repeat;
-		padding-top: 65px;
-		padding-left: 750px;
+		padding: 0;
 	}
 
 h1 {font-family: "Ubuntu", sans-serif;
