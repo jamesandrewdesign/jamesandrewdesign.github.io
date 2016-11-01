@@ -15,12 +15,14 @@ h1 { font-family: "Ubuntu", sans-serif;
  
 h2 { font-family: "Ubuntu", sans-serif;
 	 font-size: 1.5em;
+	 margin-left: 565px;
 
 }
 
 p { font-family: "Ubuntu", sans-serif;
 	font-size: 18px;
 	line-height: 28px;
+		 margin-left: 565px;
 }
 
 a {
@@ -38,6 +40,7 @@ ul {
 	line-height: 30px;
 	font-family: "Ubuntu", serif;
 	padding: 2em;
+	margin-left: 565px;
 }
 
 .button {
