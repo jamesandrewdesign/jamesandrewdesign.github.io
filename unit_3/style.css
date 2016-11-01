@@ -37,7 +37,8 @@ ul {
 	text-transform: uppercase;
 	line-height: 32px;
 	font-family: "Ubuntu", serif;
-	}
+	padding: 8em;
+}
 
 .button {
     background-color: #3f8adb;
