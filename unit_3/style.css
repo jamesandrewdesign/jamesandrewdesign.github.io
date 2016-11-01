@@ -1,5 +1,9 @@
 * { margin:0; padding:0; box-sizing:border-box; }
 
+{
+	background: url(../images/home-page-hero.jpg);
+}
+
 body {
     	background-color: #abd7f4;
 		background-size: 100%;
@@ -7,18 +11,6 @@ body {
 		padding-top: 65px;
 		padding-left: 750px;
 	}
-
-}
-.page-wrap {
-	background: url(../images/home-page-hero.jpg);
-	background-size: cover;
-	padding-top: 30em;
-	padding-bottom: 10em;
-}
-#background {
-	background-size: cover;
-	background-attachment: fixed;
-}
 
 h1 {font-family: "Ubuntu", sans-serif;
 	font-size: 26px;
