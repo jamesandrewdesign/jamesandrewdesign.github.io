@@ -51,6 +51,8 @@ ul {
     font-family: "Ubuntu", sans-serif;
     letter-spacing: 0.3em;
     margin: 20px;
+    float: right;
+    margin-right: 100px;
 }
 	
 .button:hover {
