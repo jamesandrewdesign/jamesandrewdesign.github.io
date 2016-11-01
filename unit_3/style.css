@@ -20,7 +20,8 @@ h2 {font-family: "Ubuntu", sans-serif;
 
 p { font-family: "Ubuntu", sans-serif;
 	font-size: 18px;
-	line-height: 28px
+	line-height: 28px;
+	padding: 20em;
 }
 
 a {
