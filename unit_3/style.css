@@ -34,10 +34,10 @@ a {
 ul {
 	margin: 0 auto;
 	text-align: left;
-	text-transform: uppercase;
-	line-height: 32px;
+	text-transform: lowercase;
+	line-height: 30px;
 	font-family: "Ubuntu", serif;
-	padding: 8em;
+	padding: 2em;
 }
 
 .button {
