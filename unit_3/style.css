@@ -1,4 +1,4 @@
-body#background {
+body #background {
 		background-image: url("images/hero-red-background.jpg") no-repeat 50% 50% fixed;
 		background-size: cover;
 		-moz-background-size: cover;
