@@ -1,9 +1,11 @@
-body #background {
-		background-image: url("images/hero-red-background.jpg") no-repeat 50% 50% fixed;
+
+
+body {
+		background-image: url("images/hero-red-background.jpg");
 		background-size: cover;
-		-moz-background-size: cover;
-        -o-background-size: cover;
-        -webkit-background-size: cover;
+		background-repeat: no-repeat;
+		padding-top: 65px;
+		padding-left: 750px;
 	}
 
 footer {
