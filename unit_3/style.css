@@ -1,9 +1,3 @@
-html {
-	background:url('hero-red-background.jpg') no-repeat center center;
-	min-height: 100%;
-	background-size: cover;
-}
-
 body {
 		background-image: url("images/hero-red-background.jpg");
 		background-size: cover;
@@ -68,3 +62,5 @@ ul {
 	opacity: 0.5;
 
 }
+
+</body>
