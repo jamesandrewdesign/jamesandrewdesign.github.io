@@ -1,4 +1,7 @@
-
+html {
+	/* This image will be displayed fullscreen */
+	background:url('hero-red-background.jpg') no-repeat center center;
+}
 
 body {
 		background-image: url("images/hero-red-background.jpg");
