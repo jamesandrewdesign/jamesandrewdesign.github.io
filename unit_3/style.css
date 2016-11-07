@@ -1,48 +1,18 @@
 * { margin:0; padding:0; box-sizing:border-box; }
 
 body {
-		background: url(../unit_3/images/home-page-hero.jpg);
+		background: url(../unit_3/images/hero-red-background.svg);
 		background-size: cover;
 		background-repeat: no-repeat;
 		padding-top: 65px;
 		padding-left: 750px;
 	}
 
-header {
-	background background-color: #FFED74
-	border: 1px black solid;
-	padding: 20px;
-}
-
-nav {
-	background-color: #E8C66A;
-	border: 1px black solid;
-	padding: 20px;
-}
-
-aside {
-	background-color: #FFC675;
-	border: 1px black solid;
-	padding: 20px;
-}
-
-article {
-	background-color: #E89C6C;
-	border: 1px black solid;
-	padding:  20px;
-}
-
 footer {
 	background-color: #FF957E;
 	border: 1px black solid;
 	padding: 20px;
-}
 
-div/section {
-	background-color: #FFE2B8;
-	border-color: 1px black solid;
-	padding: 20px;
-}
 
 h1 { font-family: "Ubuntu", sans-serif;
 	 font-size: 26px;
