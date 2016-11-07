@@ -1,10 +1,10 @@
 body {
-		background: url('images/hero-red-background.jpg') no-repeat center fixed;
+		background: url('images/hero-red-background.jpg') no-repeat center center fixed;
 		background-size: cover;
 		background-position: cover;
 		margin:	0;
 		padding: 0;
-		width: 100%;
+		width: 200%;
 }
 
 h1 { font-family: "Ubuntu", sans-serif;
