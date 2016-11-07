@@ -8,14 +8,6 @@ body {
 		padding-left: 750px;
 	}
 
-footer {
-	background-color: #FF957E;
-	border: 1px black solid;
-	padding: 20px;
-
-}
-
-
 h1 { font-family: "Ubuntu", sans-serif;
 	 font-size: 26px;
 	 margin-left: 565px;
@@ -65,7 +57,7 @@ ul {
     letter-spacing: 0.3em;
     margin: 20px;
     float: left;
-    margin-right: 100px;
+    margin-left: 100px;
 }
 	
 .button:hover {
