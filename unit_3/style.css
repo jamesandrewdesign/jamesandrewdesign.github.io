@@ -1,6 +1,7 @@
 html {
-	/* This image will be displayed fullscreen */
 	background:url('hero-red-background.jpg') no-repeat center center;
+	min-height: 100%
+	background-size: cover;
 }
 
 body {
