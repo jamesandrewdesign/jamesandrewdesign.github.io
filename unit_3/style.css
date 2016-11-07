@@ -64,7 +64,7 @@ ul {
     font-family: "Ubuntu", sans-serif;
     letter-spacing: 0.3em;
     margin: 20px;
-    float: right;
+    float: left;
     margin-right: 100px;
 }
 	
@@ -72,14 +72,4 @@ ul {
     background-color: #3f8adb;
 	opacity: 0.5;
 
-}
-	
-footer {
-	padding: 2em;
-	background-color:  #3f8adb;
-	letter-spacing: 0.3em;
-}
-
-p.copyright {
-	float: right;
 }
