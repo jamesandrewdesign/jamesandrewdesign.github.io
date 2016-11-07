@@ -62,17 +62,6 @@ ul {
 	opacity: 0.5;
 }
 
-body {
-  background: #1D1F20;
-  text-align: center;
-  padding: 60px;
-  font-family: 'Open Sans', sans-serif;
-  color: #fff;
-  font-weight: 700;
-  text-transform: uppercase;
-  font-size: 32px;
-}
-
 .hamburger {
     position: center;
     display: inline-block;
