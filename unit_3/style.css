@@ -35,7 +35,7 @@ ul {
 	margin: 0 auto;
 	text-align: left;
 	text-transform: lowercase;
-	line-height: 2px;
+	line-height: 0;
 	font-family: "Slabo", sans-serif;
 	padding: 2em;
 	margin-left: 2px;
