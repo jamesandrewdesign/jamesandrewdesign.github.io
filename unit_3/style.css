@@ -6,20 +6,20 @@ body {
 		background-position: center;
 }
 
-h1 { font-family: "Open+Sans", sans-serif;
+h1 { font-family: 'Open+Sans', sans-serif;
 	 font-size: 36px;
 	 margin-left: 565px;
 	 color: white;
 }
  
-h2 { font-family: "Open+Sans", sans-serif;
+h2 { font-family: 'Open+Sans', sans-serif;
 	 font-size: 1.5em;
 	 margin-left: 565px;
 	 color: white;
 
 }
 
-p { font-family: "Slabo", sans-serif;
+p { font-family: 'Slabo', sans-serif;
 	font-size: 14px;
 	line-height: 28px;
 	margin-left: 565px;
@@ -27,7 +27,7 @@ p { font-family: "Slabo", sans-serif;
 }
 
 a {
-	font-family: "Open+Sans", sans-serif;
+	font-family: 'Open+Sans', sans-serif;
 	font-size: large;
 	font-weight: 700;
 	color: white;
@@ -39,7 +39,7 @@ ul {
 	text-align: left;
 	text-transform: uppercase;
 	line-height: 2em;
-	font-family: "Slabo", sans-serif;
+	font-family: 'Slabo', sans-serif;
 	margin-left: 500px;
 	color: white;
 }
