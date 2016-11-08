@@ -34,9 +34,9 @@ a {
 ul {
 	margin: 0 auto;
 	text-align: left;
-	text-transform: uppercase;
+	text-transform: lowercase;
 	line-height: 2px;
-	font-family: "Slabo", serif;
+	font-family: "Slabo", sans-serif;
 	padding: 2em;
 	margin-left: 2px;
 	color: white;
