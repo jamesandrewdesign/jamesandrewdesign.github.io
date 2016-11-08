@@ -1,9 +1,9 @@
 html {
-		background: url('images/hero-red-background-2.jpg') no-repeat center center fixed;
-		-webkit-background-size: cover;
-		-moz-background-size: cover;
-		-o-background-size: cover;
+		background-image: url('images/hero-red-background-2.jpg');
+		background background-attachment: fixed;
+		background-repeat: no-repeat;
 		background-size: cover;
+		background-position: center;
 }
 
 h1 { font-family: "Open+Sans", sans-serif;
