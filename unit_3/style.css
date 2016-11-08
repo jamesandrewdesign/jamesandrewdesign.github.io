@@ -35,10 +35,11 @@ ul {
 	margin: 0 auto;
 	text-align: left;
 	text-transform: uppercase;
-	line-height: 12px;
+	line-height: 2px;
 	font-family: "Slabo", serif;
 	padding: 2em;
 	margin-left: 2px;
+	color: white;
 }
 
 .button {
