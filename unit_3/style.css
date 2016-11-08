@@ -10,14 +10,16 @@ body {
 		background-position: center;
 }
 
-h1 { font-family: 'Open+Sans', sans-serif;
+h1 { 
+	 font-family: 'Open+Sans', sans-serif;
 	 font-size: 30px;
 	 font-weight: normal;
 	 margin-left: 500px;
 	 color: white;
 }
  
-h2 { font-family: 'Open+Sans', sans-serif;
+h2 { 
+	 font-family: 'Open+Sans', sans-serif;
 	 font-size: 1.5em;
 	 font-weight: normal;
 	 margin-left: 565px;
@@ -26,9 +28,9 @@ h2 { font-family: 'Open+Sans', sans-serif;
 
 h3 {
 	font-family: 'Open+Sans', sans-serif;
-	font-size: 4px;
+	font-size: .09em;
 	font-weight: normal;
-	margin-right: 350px;
+	margin-right: 0px;
 	color: white;
 
 }
