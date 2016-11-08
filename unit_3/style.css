@@ -36,12 +36,14 @@ a {
 }
 
 ul {
+	font-family: 'Slabo', sans-serif;
 	margin: 0 auto;
+	font-size: 18px;
 	font-weight: normal;
 	text-align: left;
 	text-transform: uppercase;
-	line-height: 2em;
-	font-family: 'Slabo', sans-serif;
+	
+
 	margin-left: 500px;
 	color: white;
 }
