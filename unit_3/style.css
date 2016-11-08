@@ -1,7 +1,6 @@
 @import url ('https://fonts.google.com/?selection.family=Open+Sans');
 @import url ('https://fonts.google.com/?selection.family=Slabo');
 
-* { margin:0; padding:0; box-sizing:border-box; }
 
 body {
 		background-image: url('images/hero-red-background-3.jpg');
