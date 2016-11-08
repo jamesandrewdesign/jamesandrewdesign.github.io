@@ -3,25 +3,25 @@ body {
 		background-size: 100%;
 }
 
-h1 { font-family: "Ubuntu", sans-serif;
+h1 { font-family: "Open+Sans", sans-serif;
 	 font-size: 26px;
 	 margin-left: 565px;
 }
  
-h2 { font-family: "Ubuntu", sans-serif;
+h2 { font-family: "Open+Sans", sans-serif;
 	 font-size: 1.5em;
 	 margin-left: 565px;
 
 }
 
-p { font-family: "Ubuntu", sans-serif;
+p { font-family: "Slabo", sans-serif;
 	font-size: 18px;
 	line-height: 28px;
 		 margin-left: 565px;
 }
 
 a {
-	font-family: "Ubuntu", sans-serif;
+	font-family: "Open+Sans", sans-serif;
 	font-size: large;
 	font-weight: 700;
 	color: white;
@@ -33,7 +33,7 @@ ul {
 	text-align: center;
 	text-transform: uppercase;
 	line-height: 30px;
-	font-family: "Ubuntu", serif;
+	font-family: "Slabo", serif;
 	padding: 2em;
 	margin-left: 2px;
 }
@@ -41,17 +41,6 @@ ul {
 .button {
     background-color: #3f8adb;
     color: white;
-    border: none;
-    padding:8px;
-    width: 230px;
-    text-align: left;
-    text-decoration: white;
-    font-size: 16px;
-    font-family: "Ubuntu", sans-serif;
-    letter-spacing: 0.3em;
-    margin: 20px;
-    float: left;
-    margin-left: 100px;
 }
 	
 .button:hover {
