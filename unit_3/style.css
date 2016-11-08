@@ -4,15 +4,15 @@ body {
 }
 
 h1 { font-family: "Open+Sans", sans-serif;
-	 font-size: 26px;
+	 font-size: 46px;
 	 margin-left: 565px;
-	 font-color: white;
+	 color: white;
 }
  
 h2 { font-family: "Open+Sans", sans-serif;
 	 font-size: 1.5em;
 	 margin-left: 565px;
-	 font-color: white;
+	 color: white;
 
 }
 
@@ -20,7 +20,7 @@ p { font-family: "Slabo", sans-serif;
 	font-size: 18px;
 	line-height: 28px;
 	margin-left: 565px;
-	font-color: white;
+	color: white;
 }
 
 a {
