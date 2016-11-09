@@ -63,9 +63,9 @@ a {
 #right {
     background-color: none;
     border: 0px;
-    padding: 20px;
+    padding: 100px;
     float: left;   
-    width: 75%;
+    width: 50%;
 }
 
 ul {
