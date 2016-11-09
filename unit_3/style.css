@@ -60,6 +60,14 @@ a {
 	line-height: 6pt;
 }
 
+#right {
+    background-color: #E55B88;
+    border: 1px black solid;
+    padding: 20px;
+    float: right;   
+    width: 32%;
+}
+
 ul {
 	font-family: 'Slabo', sans-serif;
 	margin: 0 auto;
