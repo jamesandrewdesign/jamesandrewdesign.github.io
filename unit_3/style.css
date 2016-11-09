@@ -12,6 +12,12 @@ nav {
 	height: 50px;
 	color: #4C044C;
 }
+
+a:hover {
+	background-color:white;
+}
+
+
 h1 { 
 	 font-family: 'Open+Sans', sans-serif;
 	 font-size: 30px;
