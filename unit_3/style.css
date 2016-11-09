@@ -12,7 +12,7 @@ nav {
 	height: 50px;
 	color: #4C044C;
 	word-spacing: 70px;
-	text-decoration-style: none;
+	text-decoration: none;
 }
 
 a:hover {
