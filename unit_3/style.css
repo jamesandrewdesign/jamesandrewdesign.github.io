@@ -68,6 +68,14 @@ a {
     width: 60%;
 }
 
+#left {
+    background-color: nonne;
+    border: 0px;
+    padding: 20px;
+    float: left;
+    width: 60%;
+}
+
 ul {
 	font-family: 'Slabo', sans-serif;
 	margin: 0 auto;
