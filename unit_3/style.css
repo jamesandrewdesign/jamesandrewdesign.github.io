@@ -15,7 +15,7 @@ nav {
 	text-decoration: none;
 }
 
-a:hover {
+a hover {
 	background-color:red;
 }
 
@@ -56,7 +56,7 @@ p { font-family: 'Slabo', sans-serif;
 a {
 	font-family: 'Open+Sans', sans-serif;
 	font-size: large;
-	font-weight: normal;
+	font-weight: bold;
 	color: white;
 	line-height: 6pt;
 }
