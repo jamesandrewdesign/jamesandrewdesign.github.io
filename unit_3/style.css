@@ -61,8 +61,8 @@ a {
 }
 
 #right {
-    background-color: #E55B88;
-    border: 1px black solid;
+    background-color: none;
+    border: 0px;
     padding: 20px;
     float: right;   
     width: 32%;
