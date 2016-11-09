@@ -1,13 +1,7 @@
-@import url ('https://fonts.google.com/?selection.family=Open+Sans');
-@import url ('https://fonts.google.com/?selection.family=Slabo');
-
-
 body {
 		background-image: url('images/hero-red-background-3.jpg');
-		background-attachment: fixed;
-		background-repeat: no-repeat;
 		background-size: cover;
-		background-position: center;
+
 }
 
 h1 { 
