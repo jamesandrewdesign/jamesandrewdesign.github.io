@@ -11,7 +11,8 @@ nav {
 	padding: 20px;
 	height: 50px;
 	color: #4C044C;
-	word-spacing: 30px;
+	word-spacing: 70px;
+	text-decoration-style: none;
 }
 
 a:hover {
